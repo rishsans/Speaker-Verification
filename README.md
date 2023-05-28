@@ -1,4 +1,4 @@
-<h1 align="center" id="title">ECAPA-based Speaker Verification of Virtual Assistants: A Transfer Learning Approach</h1>
+<h1 align="center" id="title">Voice Assistant Speaker Verification</h1>
 
 <p align="center"><img src="https://socialify.git.ci/rishsans/Speaker-Verification/image?description=1&amp;descriptionEditable=Assessing%20%20the%20efficiency%20of%20transfer%20learning%20%20to%20examine%20the%20accuracy%20%26%20reliability%20of%20Speaker%0Averification%20for%20Speech%20assistants&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
 
