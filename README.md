@@ -17,7 +17,7 @@ Text-dependent voice samples refer to situations where the speaker is prompted t
 
 <h2>Results</h2>
 <p id="description">
-The results indicate that transfer learning on the ECAPA-TDNN model is effective in achieving 100% accuracy for text-independent voice samples, while text-dependent voice samples achieve 80% accuracy for the 4 virtual speech assistants. This suggests that transfer learning can be a useful technique for adapting existing speaker recognition models to recognize synthetic voices produced by TTS technology.
+  The results indicate similarities among different versions/generations of Siri and Alexa for certain speaker verification tasks. The analysis also highlights the challenges in differentiating between the same and different texts spoken by the speech assistant, which could pose a risk to speaker verification systems. Inter-pair comparison reveals variations among speech assistants, with Cortana and Google Assistant showing some similarity to Alexa's Voice. The findings suggest the need for further training and fine-tuning, as well as considering ethical and privacy implications. Overall, this research underscores the potential of transfer learning and SpeechBrain for speaker verification with text-dependent and text-independent synthetic voices.
 </p>
 <h2>Project Screenshots</h2>
 <a href="https://ibb.co/2yQzf4W"><img src="https://i.ibb.co/c1HW7nk/71.jpg" alt="71" border="0" width="300"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
